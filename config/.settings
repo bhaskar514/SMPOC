@@ -1,0 +1,19 @@
+{
+    "username": "bhaskar.chukka@test.com", 
+    "environment": "developer", 
+    "project_name": "SMPOC", 
+    "workspace": "F:\\Projects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "RR2KNQXONPY8RJF64GVSFFUD3CDA98ZP", 
+    "metadata_container": "1dc2800000023uTAAQ", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
